@@ -1,7 +1,22 @@
 .App {
   text-align: center;
 }
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
 
+.active{  
+  color: black;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

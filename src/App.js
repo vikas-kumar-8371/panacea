@@ -1,25 +1,30 @@
-import logo from './logo.svg';
+import { HashRouter,Route, Routes } from 'react-router-dom';
 import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import ContactUs from './components/ContactUs';
+import Header from './components/Header';
+import Home from './components/Home';
+import AboutUs from './components/AboutUs';
+import PageNotFound from './components/PageNotFound';
+import Services from './components/Services';
+import EmployeeLogin from './components/EmployeeLogin';
+import Login from './components/Login';
+function App(){
+  return(
+    <div className='App'>
+      <HashRouter>
+      <Header/>
+      <Routes>
+      <Route path='/' element={<Home/>}/>
+        <Route path='/home' element={<Home/>}/>
+        <Route path='/contact' element={<ContactUs/>}/>
+        <Route path='/about' element={<AboutUs/>}/>
+        <Route path='/services' element={<Services/>}/>
+        <Route path='/login' element={<EmployeeLogin/>}/>
+        <Route path='/login/logged' element={<Login/>}/>
+        <Route path='/*' element={<PageNotFound/>}/>
+      </Routes>
+      </HashRouter>
+      </div>
+  )
 }
-
 export default App;
