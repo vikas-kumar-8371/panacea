@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/panacea/static/css/main.5715096e.css",
+    "main.js": "/panacea/static/js/main.2fadefd4.js",
+    "static/js/787.7666df64.chunk.js": "/panacea/static/js/787.7666df64.chunk.js",
+    "static/media/bgimage3.jpg": "/panacea/static/media/bgimage3.4b6ed26c108ffda934f9.jpg",
+    "static/media/img7.jpg": "/panacea/static/media/img7.71548af09f56ae26edd6.jpg",
+    "static/media/img4.jpg": "/panacea/static/media/img4.a983729e66ea8f7a522f.jpg",
+    "static/media/img6.jpg": "/panacea/static/media/img6.46b04fbc6b9d2c898d06.jpg",
+    "static/media/bgimage7.jpg": "/panacea/static/media/bgimage7.1fc2f7e957a4dc7ce7f4.jpg",
+    "static/media/bgimage4.jpg": "/panacea/static/media/bgimage4.01a6d939be33df428d43.jpg",
+    "static/media/img9.jpg": "/panacea/static/media/img9.846b9e4cdf35282fe0ff.jpg",
+    "static/media/bgimage1.jpg": "/panacea/static/media/bgimage1.aae1f344419a305b3387.jpg",
+    "static/media/img3.jpg": "/panacea/static/media/img3.c11377dc1a1cef7e2ae1.jpg",
+    "static/media/img5.jpg": "/panacea/static/media/img5.4744257f994df1be1fa5.jpg",
+    "static/media/bgimage.jpg": "/panacea/static/media/bgimage.9a0f3a75b805b6378138.jpg",
+    "static/media/bgimage11.jpg": "/panacea/static/media/bgimage11.b1bbfbe4c143e8410889.jpg",
+    "static/media/bgimage2.jpg": "/panacea/static/media/bgimage2.71f230c3dee8c7806dc8.jpg",
+    "static/media/img8.jpg": "/panacea/static/media/img8.555ff26867e78b9ed3c0.jpg",
+    "static/media/image6.png": "/panacea/static/media/image6.aa7cb448e3a22fdf7dc0.png",
+    "static/media/bgimage10.jpg": "/panacea/static/media/bgimage10.35a76f9c744af50b95b2.jpg",
+    "static/media/img1.jpg": "/panacea/static/media/img1.af26c228a3dc880d94c3.jpg",
+    "static/media/bgimage5.jpg": "/panacea/static/media/bgimage5.ec541255ab341cf29bca.jpg",
+    "static/media/image1.png": "/panacea/static/media/image1.e230375c2c161a55fefe.png",
+    "static/media/bgimage6.jpg": "/panacea/static/media/bgimage6.ef3338e2c14af34bf7f3.jpg",
+    "static/media/bgimage12.jpg": "/panacea/static/media/bgimage12.7334f98d02f7e32a9224.jpg",
+    "static/media/img2.jpg": "/panacea/static/media/img2.67a89bad40d745cec8fa.jpg",
+    "static/media/Logo.PNG": "/panacea/static/media/Logo.896606185dbeb3d5f278.PNG",
+    "static/media/bgimage13.jpg": "/panacea/static/media/bgimage13.8cb62645f301b90209c2.jpg",
+    "static/media/image2.jpg": "/panacea/static/media/image2.526af3269b676507853c.jpg",
+    "static/media/image4.jpg": "/panacea/static/media/image4.389bec93ee5dec3c0584.jpg",
+    "static/media/image5.png": "/panacea/static/media/image5.558836bf173eff5fb397.png",
+    "static/media/image3.jpg": "/panacea/static/media/image3.b06f692d59805555ceb0.jpg",
+    "index.html": "/panacea/index.html",
+    "main.5715096e.css.map": "/panacea/static/css/main.5715096e.css.map",
+    "main.2fadefd4.js.map": "/panacea/static/js/main.2fadefd4.js.map",
+    "787.7666df64.chunk.js.map": "/panacea/static/js/787.7666df64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5715096e.css",
+    "static/js/main.2fadefd4.js"
+  ]
+}
