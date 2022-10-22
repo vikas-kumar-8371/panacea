@@ -51,7 +51,7 @@ function ContactUs(){
         backgroundImage: `url(${image})`,
         height: "680px", backgroundRepeat: "no-repeat", backgroundSize: "cover", backgroundPosition: "fixed"
       }}>
-        <div style={{ padding: "3%" }}>
+        <div style={{ padding: "10%" }}>
           <h3 style={{ color: "darkblue", fontFamily: "Fantasy" }}>CONEECT WITH PANACEA</h3>
           <br />
           <p style={{ color: "black", paddingLeft: "25%", paddingRight: "25%", fontFamily: "Fantasy" }}>You’ll never have a product or price advantage again. They can be easily duplicated, but a strong customer service culture can’t be copied</p>
@@ -85,7 +85,7 @@ function ContactUs(){
                 fontFamily: 'serif',
                 fontWeight: 'bold',
                 color: 'black'
-              }}>Contact US</h2>
+              }}>Contact Us</h2>
               <p style={{fontWeight: 'bold',color:'darkblue',fontFamily: 'serif',}}>Please provide your details here!</p>
               <div className="relative mb-4">
                 <label for="name" className="leading-7 text-sm text-gray-900">Name</label>
