@@ -88,7 +88,7 @@ function EmployeeLogin() {
     <>
       <div style={{
         backgroundImage: `url(${image})`,
-        height: "830px", backgroundRepeat: "no-repeat", backgroundSize: "cover"
+        height: "900px", backgroundRepeat: "no-repeat", backgroundSize: "cover"
       }}>
         <p style={{
           fontFamily: 'serif',

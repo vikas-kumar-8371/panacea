@@ -6,7 +6,7 @@ function HomeContactUs() {
     return (
         <div style={{
             backgroundImage: `url(${image})`,
-            height: "650px", backgroundRepeat: "no-repeat", backgroundSize:"100%"
+            height: "750px", backgroundRepeat: "no-repeat", backgroundSize:"100%"
           }}>
             <div style={{paddingTop:"15%", paddingLeft:"0%", paddingRight:"30%"}}>
             <h1>THE MOST <span style={{color:"darkblue"}}>COST-EFFECTIVE </span>FINANCE SERVICES</h1>

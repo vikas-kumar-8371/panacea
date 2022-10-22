@@ -216,7 +216,7 @@ function Services() {
             </div><br/><br/>
             <div style={{
                 backgroundImage: `url(${image1})`,
-                height: "500px", backgroundRepeat: "no-repeat", backgroundSize: "cover"
+                height: "600px", backgroundRepeat: "no-repeat", backgroundSize: "cover"
             }}>
                 <h4 style={{paddingTop:"5%"}}>To Know more about our services</h4>
                 <h5 style={{color:"maroon"}}>Please connect with Us</h5>
