@@ -64,7 +64,7 @@ function Login() {
     }
     return (
         
-        <div>
+        <div style={{paddingTop:'5%'}}>
              <h5 style={{color:"darkblue"}}>CUSTOMER DETAILS</h5>
             <div  style={{
             backgroundImage: `url(${image})`,

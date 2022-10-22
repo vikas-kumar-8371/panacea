@@ -108,7 +108,7 @@ function EmployeeLogin() {
           <div className="login-form">
             <div className="title">Sign In</div>
             <h6 style={{ color: "red" }}>Admin Access only</h6>
-            {isSubmitted ? <Button variant="success"><NavLink as={Link} to={"/login/logged"} target="_blank" style={{ color: "white", textDecoration: "none" }}>Correct Credentials Click Again For Login In</NavLink></Button> : renderForm}
+            {isSubmitted ? <Button variant="success"><NavLink as={Link} to={"/login/logged"} style={{ color: "white", textDecoration: "none" }}>Correct Credentials Click Again For Login In</NavLink></Button> : renderForm}
           </div>
         </div>
       </div>

@@ -31,7 +31,7 @@ function ContactUs(){
       alert("Message can't be left(Please describe about your company in short)")
     }
     else{
-    fetch("http://127.0.0.1:8000/customer",{
+    fetch("https://panacea-backend.herokuapp.com/customer",{
       method:'POST',
       headers:{
         'Accept':'application/json',
