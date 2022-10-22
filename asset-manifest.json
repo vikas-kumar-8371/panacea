@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/panacea/static/css/main.5715096e.css",
-    "main.js": "/panacea/static/js/main.2fadefd4.js",
+    "main.css": "/panacea/static/css/main.08981f08.css",
+    "main.js": "/panacea/static/js/main.39ade148.js",
     "static/js/787.7666df64.chunk.js": "/panacea/static/js/787.7666df64.chunk.js",
     "static/media/bgimage3.jpg": "/panacea/static/media/bgimage3.4b6ed26c108ffda934f9.jpg",
     "static/media/img7.jpg": "/panacea/static/media/img7.71548af09f56ae26edd6.jpg",
@@ -32,12 +32,12 @@
     "static/media/image5.png": "/panacea/static/media/image5.558836bf173eff5fb397.png",
     "static/media/image3.jpg": "/panacea/static/media/image3.b06f692d59805555ceb0.jpg",
     "index.html": "/panacea/index.html",
-    "main.5715096e.css.map": "/panacea/static/css/main.5715096e.css.map",
-    "main.2fadefd4.js.map": "/panacea/static/js/main.2fadefd4.js.map",
+    "main.08981f08.css.map": "/panacea/static/css/main.08981f08.css.map",
+    "main.39ade148.js.map": "/panacea/static/js/main.39ade148.js.map",
     "787.7666df64.chunk.js.map": "/panacea/static/js/787.7666df64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5715096e.css",
-    "static/js/main.2fadefd4.js"
+    "static/css/main.08981f08.css",
+    "static/js/main.39ade148.js"
   ]
 }
