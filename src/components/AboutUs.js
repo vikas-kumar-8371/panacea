@@ -7,11 +7,10 @@ import image4 from "../images/Photo/bgimage13.jpg";
 function AboutUs() {
     return (
         <>
-            <div style={{
-                backgroundImage: `url(${image})`,
-                height: "450px", backgroundRepeat: "no-repeat", backgroundSize: "cover"
-            }}>
-            </div>
+
+            <section className="text-gray-900 body-font">
+                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-full object-cover object-center mb-4" src={image} />
+            </section>
             <br /><br />
             <h6 style={{ textAlign: "justify", paddingLeft: '5%',fontWeight: 'bold' }}>ABOUT US</h6>
             <p style={{ textAlign: "justify", padding: '5%',paddingTop:'0%',paddingBottom:'0%' }}>

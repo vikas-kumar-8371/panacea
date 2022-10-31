@@ -8,7 +8,7 @@ function HomeContactUs() {
             backgroundImage: `url(${image})`,
             height: "750px", backgroundRepeat: "no-repeat", backgroundSize:"100%"
           }}>
-            <div style={{paddingTop:"15%", paddingLeft:"0%", paddingRight:"30%"}}>
+            <div style={{paddingTop:"15%", paddingLeft:"0%", paddingRight:"30%", position:'relative'}}>
             <h1>THE MOST <span style={{color:"darkblue"}}>COST-EFFECTIVE </span>FINANCE SERVICES</h1>
             <h3 style={{color:"red"}}>Is Now Available Here</h3>
             <br/>

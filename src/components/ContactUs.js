@@ -47,7 +47,7 @@ function ContactUs(){
   }
     return (
       <>
-      <div className="text-gray-600 body-font relative" style={{
+      {/* <div className="text-gray-600 body-font relative" style={{
         backgroundImage: `url(${image})`,
         height: "680px", backgroundRepeat: "no-repeat", backgroundSize: "cover", backgroundPosition: "fixed"
       }}>
@@ -58,10 +58,25 @@ function ContactUs(){
           <br />
           <p style={{ fontFamily: "Fantasy", color: "darkgreen" }}>PANACEA always take care of valuable customer</p>
         </div>
-      </div><br/><br/>
+      </div> */}
+      <section className="text-gray-900 body-font">
+                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-full object-cover object-center mb-4" src={image} />
+                <div>
+          <h3 style={{ color: "darkblue", fontFamily: "Fantasy" }}>CONEECT WITH PANACEA</h3>
+          <br />
+          <p style={{ color: "black", paddingLeft: "25%", paddingRight: "25%", fontFamily: "Fantasy" }}>You’ll never have a product or price advantage again. They can be easily duplicated, but a strong customer service culture can’t be copied</p>
+          <br />
+          <p style={{ fontFamily: "Fantasy", color: "darkgreen" }}>PANACEA always take care of our valuable customer</p>
+        </div>
+            </section>
+      <br/><br/>
+      <div>
+        
+      </div>
       <div style={{
               backgroundImage: `url(${image1})`,
-              height: "780px", backgroundRepeat: "no-repeat", backgroundSize: "cover"
+               backgroundRepeat: "no-repeat", backgroundSize: "cover",
+              backgroundPosition:"center"
             }}>
         <form onSubmit={handleSubmit}>
         <section className="text-gray-900 body-font relative">

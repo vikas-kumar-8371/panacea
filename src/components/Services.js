@@ -28,12 +28,16 @@ function Services() {
                     </div>
                 </div>
             </section>
-            <div style={{
+            {/* <div style={{
                 backgroundImage: `url(${image})`,
                 height: "650px", backgroundRepeat: "no-repeat", backgroundSize: "cover"
             }}>
                 <h3 style={{ color: "white", paddingLeft: "60%", paddingTop: "22%" }}>We are offering Services <span style={{ color: "yellow" }}>which is mentioned below</span></h3>
-            </div>
+            </div> */}
+            <section className="text-gray-900 body-font">
+                <img alt="team" className="flex-shrink-0 rounded-lg w-full h-full object-cover object-center mb-4" src={image} />
+                <h3 style={{ color: "darkgreen" }}>We are offering Services <span style={{ color: "maroon" }}>which is mentioned below</span></h3>
+            </section>
             {/* *************01************ */}
             <section class="text-gray-600 body-font">
                 <div class="container px-5 py-24 mx-auto flex flex-col">
@@ -214,15 +218,23 @@ function Services() {
                     </Accordion.Item>
                 </Accordion>
             </div><br/><br/>
-            <div style={{
+            {/* <div style={{
                 backgroundImage: `url(${image1})`,
-                height: "600px", backgroundRepeat: "no-repeat", backgroundSize: "cover"
+                 backgroundRepeat: "no-repeat", 
+                 backgroundSize: "cover",
+                 backgroundPosition:"center"
             }}>
                 <h4 style={{paddingTop:"5%"}}>To Know more about our services</h4>
                 <h5 style={{color:"maroon"}}>Please connect with Us</h5>
                 <Button variant="light"><NavLink as={Link} to={"/contact"} className="mr-5 hover:text-white" style={{textDecoration:"none"}}>Click Me</NavLink></Button>{' '}
 
-            </div>
+            </div> */}
+            <section className="text-gray-900 body-font">
+            <h4 style={{color:"darkgreen"}}>To Know more about our services</h4>
+                <h5 style={{color:"maroon"}}>Please connect with Us</h5>
+                <p>(click below image)</p>
+                <NavLink as={Link} to={"/contact"} className="mr-5 hover:text-white" style={{textDecoration:"none"}}><img alt="team" className="flex-shrink-0 rounded-lg w-full h-full object-cover object-center mb-4" src={image1} /></NavLink>
+            </section>
             <div>
                 <Footer />
             </div>
