@@ -123,17 +123,18 @@ function Footer() {
 
                     <div>
                         <div className='map'><FaMapMarkerAlt /></div>&nbsp;
-                        <p><span>444 S. Cedros Ave</span> Solana Beach, California</p>
+                        <p>Building No. 5, Raheja Green, Green Acres, Borivali(E), Mumbai 400066, Maharashtra, India</p>
                     </div><br />
 
                     <div>
-                        <div className='phone'><FaMobileAlt /></div>&nbsp;
-                        <p>+1.555.555.5555</p>
+                        <div className='phone'><FaMobileAlt /></div><br/>
+                        <p>+91- 9825674931</p>
                     </div><br />
 
                     <div>
-                        <div className='envelop'><FaRegEnvelope /></div>&nbsp;
-                        <p><a href="mailto:support@company.com">support@company.com</a></p>
+                        <div className='envelop'><FaRegEnvelope /></div><br/>
+                        <p><a href="#">pranavpatel361@gmail.com</a></p>
+                        <p><a href="#">archana130899@gmail.com</a></p>
                     </div>
 
                 </div>
