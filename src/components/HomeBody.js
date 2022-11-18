@@ -48,7 +48,11 @@ function HomeBody() {
                     </div>
                 </div>
             </section>
+            <hr/>
             <HomeAbout />
+            <hr/>
+            <HomeContactUs />
+            <hr/>
             <section class="text-gray-600 body-font">
                 <div class="container px-5 py-24 mx-auto">
                     <div class="flex flex-wrap -m-4">
@@ -109,7 +113,7 @@ function HomeBody() {
                     </div>
                 </div>
             </section>
-            <HomeContactUs />
+           
         </>
     )
 }

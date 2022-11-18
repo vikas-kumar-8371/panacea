@@ -1,7 +1,6 @@
 import React from 'react';
 import Footer from './Footer';
 import { Link, NavLink } from 'react-router-dom';
-import { Button } from 'react-bootstrap';
 import Accordion from 'react-bootstrap/Accordion';
 import img2 from '../images/Photo/img2.jpg';
 import img5 from '../images/Photo/img5.jpg';
@@ -19,7 +18,7 @@ function Services() {
                 <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
                     <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                         <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Before they sold out
-                            <br class="hidden lg:inline-block" /><span style={{ color: "darkgreen" }}>use our Services</span>
+                            <br class="hidden lg:inline-block" /><span style={{ color: "darkgreen" }}> use our Services</span>
                         </h1>
                         <p class="mb-8 leading-relaxed">There is fast paced of changes taking place in the work environment due to advent of Technology. There are various organizations which are struggling to manage their business due to cumbersome bookkeeping and other statutory compliance activity. Hence Panacea is there to provide all these facility at the cheapest price to facilitate the organization to grow by focusing on the core activity of the organization.</p>
                     </div>
@@ -28,12 +27,6 @@ function Services() {
                     </div>
                 </div>
             </section>
-            {/* <div style={{
-                backgroundImage: `url(${image})`,
-                height: "650px", backgroundRepeat: "no-repeat", backgroundSize: "cover"
-            }}>
-                <h3 style={{ color: "white", paddingLeft: "60%", paddingTop: "22%" }}>We are offering Services <span style={{ color: "yellow" }}>which is mentioned below</span></h3>
-            </div> */}
             <section className="text-gray-900 body-font">
                 <img alt="team" className="flex-shrink-0 rounded-lg w-full h-full object-cover object-center mb-4" src={image} />
                 <h3 style={{ color: "darkgreen" }}>We are offering Services <span style={{ color: "maroon" }}>which is mentioned below</span></h3>
@@ -218,17 +211,6 @@ function Services() {
                     </Accordion.Item>
                 </Accordion>
             </div><br/><br/>
-            {/* <div style={{
-                backgroundImage: `url(${image1})`,
-                 backgroundRepeat: "no-repeat", 
-                 backgroundSize: "cover",
-                 backgroundPosition:"center"
-            }}>
-                <h4 style={{paddingTop:"5%"}}>To Know more about our services</h4>
-                <h5 style={{color:"maroon"}}>Please connect with Us</h5>
-                <Button variant="light"><NavLink as={Link} to={"/contact"} className="mr-5 hover:text-white" style={{textDecoration:"none"}}>Click Me</NavLink></Button>{' '}
-
-            </div> */}
             <section className="text-gray-900 body-font">
             <h4 style={{color:"darkgreen"}}>To Know more about our services</h4>
                 <h5 style={{color:"maroon"}}>Please connect with Us</h5>

@@ -143,7 +143,7 @@ function Footer() {
 
                     <p class="footer-company-about">
                         <span>About the company</span>
-                        Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet.
+                        Everyone wants to live on top of the mountain, but all the happiness and growth occurs while you’re climbing it
                     </p>
 
                     <div class="footer-icons">
