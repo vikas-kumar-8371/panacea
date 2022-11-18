@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c17361cb.css",
-    "main.js": "/static/js/main.7e6a21fe.js",
+    "main.css": "/static/css/main.cd07b22e.css",
+    "main.js": "/static/js/main.bb64eec8.js",
     "static/js/787.7666df64.chunk.js": "/static/js/787.7666df64.chunk.js",
     "static/media/bgimage3.jpg": "/static/media/bgimage3.4b6ed26c108ffda934f9.jpg",
     "static/media/img7.jpg": "/static/media/img7.71548af09f56ae26edd6.jpg",
@@ -11,10 +11,10 @@
     "static/media/bgimage7.jpg": "/static/media/bgimage7.1fc2f7e957a4dc7ce7f4.jpg",
     "static/media/bgimage4.jpg": "/static/media/bgimage4.01a6d939be33df428d43.jpg",
     "static/media/img9.jpg": "/static/media/img9.846b9e4cdf35282fe0ff.jpg",
+    "static/media/img3.png": "/static/media/img3.f7aff3ea41bd40067d39.png",
     "static/media/bgimage1.jpg": "/static/media/bgimage1.aae1f344419a305b3387.jpg",
     "static/media/img3.jpg": "/static/media/img3.c11377dc1a1cef7e2ae1.jpg",
     "static/media/img5.jpg": "/static/media/img5.4744257f994df1be1fa5.jpg",
-    "static/media/bgimage.jpg": "/static/media/bgimage.9a0f3a75b805b6378138.jpg",
     "static/media/bgimage11.jpg": "/static/media/bgimage11.b1bbfbe4c143e8410889.jpg",
     "static/media/img8.jpg": "/static/media/img8.555ff26867e78b9ed3c0.jpg",
     "static/media/image6.png": "/static/media/image6.aa7cb448e3a22fdf7dc0.png",
@@ -32,12 +32,12 @@
     "static/media/image5.png": "/static/media/image5.558836bf173eff5fb397.png",
     "static/media/image3.jpg": "/static/media/image3.b06f692d59805555ceb0.jpg",
     "index.html": "/index.html",
-    "main.c17361cb.css.map": "/static/css/main.c17361cb.css.map",
-    "main.7e6a21fe.js.map": "/static/js/main.7e6a21fe.js.map",
+    "main.cd07b22e.css.map": "/static/css/main.cd07b22e.css.map",
+    "main.bb64eec8.js.map": "/static/js/main.bb64eec8.js.map",
     "787.7666df64.chunk.js.map": "/static/js/787.7666df64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c17361cb.css",
-    "static/js/main.7e6a21fe.js"
+    "static/css/main.cd07b22e.css",
+    "static/js/main.bb64eec8.js"
   ]
 }
